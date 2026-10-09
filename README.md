@@ -1,24 +1,33 @@
-## 📊 Live GitHub Analytics
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vikasvika&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=8B5CF6&text_color=E6EDF3" alt="GitHub Statistics" />
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Programming Languages" />
 
-<!-- Top Languages -->
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasvika&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=E6EDF3" alt="Top Languages" />
+### 🌐 Frameworks & Development
+<img src="https://skillicons.dev/icons?i=django,flask,react&theme=dark" alt="Frameworks" />
 
-<br/><br/>
+### 📊 Data Science & Machine Learning
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 
-<!-- Contribution Streak -->
-<img src="https://streak-stats.demolab.com?user=vikasvika&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=8B5CF6&currStreakLabel=00C2FF" alt="GitHub Contribution Streak" />
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
+
+### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Developer Tools" />
 
 </div>
 
-## 📈 Contribution Activity
+---
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vikasvika&bg_color=0D1117&color=E6EDF3&line=00C2FF&point=8B5CF6&area=true&hide_border=true&custom_title=Vikas%27s%20Contribution%20Activity" alt="GitHub Contribution Activity Graph" />
+### 🚀 Always Learning. Always Building.
+
+*Exploring new technologies and turning ideas into practical projects.*
 
 </div>
